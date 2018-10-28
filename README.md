@@ -1,6 +1,6 @@
 # Basketball Style Analysis 2010-2018
 
-##### Contributer:
+##### Contributers:
 - Andrew Zhang
 - Andy Vu-Hoang
 - J Steven Raquel
